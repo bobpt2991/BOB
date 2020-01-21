@@ -1,3 +1,7 @@
 Xem cho biet voi thien ha cung toi!!
 Line 2 duoc add tu hoangpt2991
+<<<<<<< HEAD
 Line old
+=======
+Line new
+>>>>>>> fe5eb3e81f657c2ae98f03de2ad4e8bfafd85d1d
